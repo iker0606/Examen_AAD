@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LZijAmaA3XY=",
+  "success": true,
+  "projectFilePath": "/home/ikerfs/Escritorio/Acceso a Datos/Examen/Examen/Examen.csproj",
+  "expectedPackageFiles": [
+    "/home/ikerfs/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.14/microsoft.aspnetcore.app.ref.10.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

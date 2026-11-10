@@ -1,0 +1,14 @@
+/home/ikerfs/Escritorio/Acceso a Datos/Examen/Examen/bin/Debug/net10.0/Examen
+/home/ikerfs/Escritorio/Acceso a Datos/Examen/Examen/bin/Debug/net10.0/Examen.deps.json
+/home/ikerfs/Escritorio/Acceso a Datos/Examen/Examen/bin/Debug/net10.0/Examen.runtimeconfig.json
+/home/ikerfs/Escritorio/Acceso a Datos/Examen/Examen/bin/Debug/net10.0/Examen.dll
+/home/ikerfs/Escritorio/Acceso a Datos/Examen/Examen/bin/Debug/net10.0/Examen.pdb
+/home/ikerfs/Escritorio/Acceso a Datos/Examen/Examen/obj/Debug/net10.0/Examen.GeneratedMSBuildEditorConfig.editorconfig
+/home/ikerfs/Escritorio/Acceso a Datos/Examen/Examen/obj/Debug/net10.0/Examen.AssemblyInfoInputs.cache
+/home/ikerfs/Escritorio/Acceso a Datos/Examen/Examen/obj/Debug/net10.0/Examen.AssemblyInfo.cs
+/home/ikerfs/Escritorio/Acceso a Datos/Examen/Examen/obj/Debug/net10.0/Examen.csproj.CoreCompileInputs.cache
+/home/ikerfs/Escritorio/Acceso a Datos/Examen/Examen/obj/Debug/net10.0/Examen.dll
+/home/ikerfs/Escritorio/Acceso a Datos/Examen/Examen/obj/Debug/net10.0/refint/Examen.dll
+/home/ikerfs/Escritorio/Acceso a Datos/Examen/Examen/obj/Debug/net10.0/Examen.pdb
+/home/ikerfs/Escritorio/Acceso a Datos/Examen/Examen/obj/Debug/net10.0/Examen.genruntimeconfig.cache
+/home/ikerfs/Escritorio/Acceso a Datos/Examen/Examen/obj/Debug/net10.0/ref/Examen.dll
